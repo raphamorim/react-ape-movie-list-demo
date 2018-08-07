@@ -1,3 +1,3 @@
-# react-ape-demo
+# react-ape-movie-list-demo
 
-http://raphamorim.io/react-ape-demo/
+http://raphamorim.io/react-ape-movie-list-demo
